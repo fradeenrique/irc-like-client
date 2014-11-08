@@ -1,7 +1,7 @@
 {
   "name": "Node.js chat da zuera",
   "description": "zuera e outras zuera",
-  "repository": "",
+  "repository": "https://www.heroku.com/deploy/?template=https://github.com/fradeenrique/irc-like-client",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static","zuera"]
 }
